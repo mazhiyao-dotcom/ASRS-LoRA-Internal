@@ -1,0 +1,86 @@
+[
+  {
+    "acn": "1782281",
+    "factor": "Situational Awareness",
+    "true_label": "NO",
+    "prediction": "NO",
+    "yes_probability": 0.2859
+  },
+  {
+    "acn": "1782281",
+    "factor": "Communication Breakdown",
+    "true_label": "NO",
+    "prediction": "YES",
+    "yes_probability": 0.5023
+  },
+  {
+    "acn": "1782281",
+    "factor": "Distraction",
+    "true_label": "YES",
+    "prediction": "NO",
+    "yes_probability": 0.4355
+  },
+  {
+    "acn": "1782281",
+    "factor": "Confusion",
+    "true_label": "NO",
+    "prediction": "YES",
+    "yes_probability": 0.8559
+  },
+  {
+    "acn": "1782281",
+    "factor": "Workload",
+    "true_label": "YES",
+    "prediction": "NO",
+    "yes_probability": 0.4701
+  },
+  {
+    "acn": "1782281",
+    "factor": "Time Pressure",
+    "true_label": "YES",
+    "prediction": "YES",
+    "yes_probability": 0.577
+  },
+  {
+    "acn": "1782281",
+    "factor": "Troubleshooting",
+    "true_label": "NO",
+    "prediction": "NO",
+    "yes_probability": 0.4842
+  },
+  {
+    "acn": "1782281",
+    "factor": "Training / Qualification",
+    "true_label": "NO",
+    "prediction": "NO",
+    "yes_probability": 0.1909
+  },
+  {
+    "acn": "1782281",
+    "factor": "Human-Machine Interface",
+    "true_label": "NO",
+    "prediction": "YES",
+    "yes_probability": 0.665
+  },
+  {
+    "acn": "1782281",
+    "factor": "Other / Unknown",
+    "true_label": "NO",
+    "prediction": "NO",
+    "yes_probability": 0.2914
+  },
+  {
+    "acn": "1782281",
+    "factor": "Physiological - Other",
+    "true_label": "NO",
+    "prediction": "NO",
+    "yes_probability": 0.2172
+  },
+  {
+    "acn": "1782281",
+    "factor": "Fatigue",
+    "true_label": "NO",
+    "prediction": "NO",
+    "yes_probability": 0.2823
+  }
+]

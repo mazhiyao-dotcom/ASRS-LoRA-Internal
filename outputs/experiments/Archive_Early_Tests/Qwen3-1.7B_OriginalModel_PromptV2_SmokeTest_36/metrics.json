@@ -1,0 +1,90 @@
+{
+    "experiment": "Qwen3-1.7B Baseline",
+    "model": "Qwen/Qwen3-1.7B",
+    "dataset": "data/asrs/val.csv",
+    "samples": 36,
+    "reports": 3,
+    "fine_tuned": false,
+    "accuracy": 0.4166666666666667,
+    "macro_precision": 0.49331103678929766,
+    "macro_recall": 0.4910714285714286,
+    "macro_f1": 0.40519276160503537,
+    "yes_precision": 0.21739130434782608,
+    "yes_recall": 0.625,
+    "yes_f1": 0.3225806451612903,
+    "invalid_predictions": 0,
+    "human_factors": {
+        "Situational Awareness": {
+            "accuracy": 0.3333333333333333,
+            "precision_yes": 0.3333333333333333,
+            "recall_yes": 1.0,
+            "f1_yes": 0.5
+        },
+        "Communication Breakdown": {
+            "accuracy": 0.3333333333333333,
+            "precision_yes": 0.5,
+            "recall_yes": 0.5,
+            "f1_yes": 0.5
+        },
+        "Distraction": {
+            "accuracy": 0.3333333333333333,
+            "precision_yes": 0.3333333333333333,
+            "recall_yes": 1.0,
+            "f1_yes": 0.5
+        },
+        "Confusion": {
+            "accuracy": 0.6666666666666666,
+            "precision_yes": 0.5,
+            "recall_yes": 1.0,
+            "f1_yes": 0.6666666666666666
+        },
+        "Workload": {
+            "accuracy": 0.3333333333333333,
+            "precision_yes": 0.0,
+            "recall_yes": 0.0,
+            "f1_yes": 0.0
+        },
+        "Time Pressure": {
+            "accuracy": 0.3333333333333333,
+            "precision_yes": 0.0,
+            "recall_yes": 0.0,
+            "f1_yes": 0.0
+        },
+        "Troubleshooting": {
+            "accuracy": 0.6666666666666666,
+            "precision_yes": 0.0,
+            "recall_yes": 0.0,
+            "f1_yes": 0.0
+        },
+        "Training / Qualification": {
+            "accuracy": 0.6666666666666666,
+            "precision_yes": 0.0,
+            "recall_yes": 0.0,
+            "f1_yes": 0.0
+        },
+        "Human-Machine Interface": {
+            "accuracy": 0.3333333333333333,
+            "precision_yes": 0.3333333333333333,
+            "recall_yes": 1.0,
+            "f1_yes": 0.5
+        },
+        "Other / Unknown": {
+            "accuracy": 0.3333333333333333,
+            "precision_yes": 0.0,
+            "recall_yes": 0.0,
+            "f1_yes": 0.0
+        },
+        "Physiological - Other": {
+            "accuracy": 0.6666666666666666,
+            "precision_yes": 0.0,
+            "recall_yes": 0.0,
+            "f1_yes": 0.0
+        },
+        "Fatigue": {
+            "accuracy": 0.0,
+            "precision_yes": 0.0,
+            "recall_yes": 0.0,
+            "f1_yes": 0.0
+        }
+    }
+}

@@ -1,0 +1,121 @@
+acn,factor,true_label,prediction,yes_probability
+1782281,Situational Awareness,NO,NO,0.2859
+1782281,Communication Breakdown,NO,YES,0.5023
+1782281,Distraction,YES,NO,0.4355
+1782281,Confusion,NO,YES,0.8559
+1782281,Workload,YES,NO,0.4701
+1782281,Time Pressure,YES,YES,0.577
+1782281,Troubleshooting,NO,NO,0.4842
+1782281,Training / Qualification,NO,NO,0.1909
+1782281,Human-Machine Interface,NO,YES,0.665
+1782281,Other / Unknown,NO,NO,0.2914
+1782281,Physiological - Other,NO,NO,0.2172
+1782281,Fatigue,NO,NO,0.2823
+1773865,Situational Awareness,YES,YES,0.8716
+1773865,Communication Breakdown,YES,YES,0.9372
+1773865,Distraction,NO,NO,0.3807
+1773865,Confusion,YES,YES,0.9485
+1773865,Workload,NO,YES,0.9244
+1773865,Time Pressure,NO,YES,0.9021
+1773865,Troubleshooting,NO,YES,0.8414
+1773865,Training / Qualification,NO,NO,0.3136
+1773865,Human-Machine Interface,YES,YES,0.7509
+1773865,Other / Unknown,NO,NO,0.4022
+1773865,Physiological - Other,NO,NO,0.1802
+1773865,Fatigue,NO,NO,0.4454
+1763378,Situational Awareness,NO,YES,0.7394
+1763378,Communication Breakdown,YES,NO,0.4602
+1763378,Distraction,NO,NO,0.3414
+1763378,Confusion,NO,YES,0.7523
+1763378,Workload,NO,NO,0.3188
+1763378,Time Pressure,NO,YES,0.5659
+1763378,Troubleshooting,NO,NO,0.4506
+1763378,Training / Qualification,NO,NO,0.3256
+1763378,Human-Machine Interface,NO,NO,0.3797
+1763378,Other / Unknown,NO,NO,0.4394
+1763378,Physiological - Other,NO,NO,0.356
+1763378,Fatigue,NO,NO,0.3958
+1785645,Situational Awareness,YES,YES,0.6924
+1785645,Communication Breakdown,YES,YES,0.7404
+1785645,Distraction,YES,YES,0.6072
+1785645,Confusion,YES,YES,0.795
+1785645,Workload,NO,NO,0.1931
+1785645,Time Pressure,NO,NO,0.496
+1785645,Troubleshooting,NO,YES,0.6099
+1785645,Training / Qualification,NO,YES,0.5397
+1785645,Human-Machine Interface,NO,NO,0.497
+1785645,Other / Unknown,NO,YES,0.5278
+1785645,Physiological - Other,NO,NO,0.4073
+1785645,Fatigue,NO,NO,0.2661
+1760785,Situational Awareness,NO,YES,0.7095
+1760785,Communication Breakdown,YES,YES,0.6709
+1760785,Distraction,NO,NO,0.3668
+1760785,Confusion,NO,YES,0.6931
+1760785,Workload,NO,NO,0.2805
+1760785,Time Pressure,NO,NO,0.4404
+1760785,Troubleshooting,NO,YES,0.5768
+1760785,Training / Qualification,NO,NO,0.4049
+1760785,Human-Machine Interface,YES,YES,0.6166
+1760785,Other / Unknown,NO,NO,0.4223
+1760785,Physiological - Other,NO,NO,0.2358
+1760785,Fatigue,NO,NO,0.3605
+1740416,Situational Awareness,YES,YES,0.5306
+1740416,Communication Breakdown,NO,NO,0.322
+1740416,Distraction,NO,NO,0.282
+1740416,Confusion,NO,YES,0.6196
+1740416,Workload,NO,NO,0.3593
+1740416,Time Pressure,NO,YES,0.6942
+1740416,Troubleshooting,NO,YES,0.7124
+1740416,Training / Qualification,NO,NO,0.2252
+1740416,Human-Machine Interface,NO,NO,0.3344
+1740416,Other / Unknown,NO,NO,0.4848
+1740416,Physiological - Other,NO,NO,0.2133
+1740416,Fatigue,NO,NO,0.3192
+1745951,Situational Awareness,YES,YES,0.8967
+1745951,Communication Breakdown,NO,NO,0.4843
+1745951,Distraction,NO,YES,0.7749
+1745951,Confusion,NO,YES,0.8869
+1745951,Workload,NO,NO,0.4807
+1745951,Time Pressure,NO,NO,0.3586
+1745951,Troubleshooting,NO,YES,0.7775
+1745951,Training / Qualification,NO,NO,0.2567
+1745951,Human-Machine Interface,NO,YES,0.5795
+1745951,Other / Unknown,NO,YES,0.5309
+1745951,Physiological - Other,NO,NO,0.2643
+1745951,Fatigue,NO,NO,0.3705
+1780188,Situational Awareness,NO,YES,0.5845
+1780188,Communication Breakdown,NO,YES,0.5315
+1780188,Distraction,NO,YES,0.5038
+1780188,Confusion,NO,NO,0.4653
+1780188,Workload,YES,YES,0.9176
+1780188,Time Pressure,NO,YES,0.7735
+1780188,Troubleshooting,NO,YES,0.7132
+1780188,Training / Qualification,NO,NO,0.2459
+1780188,Human-Machine Interface,NO,NO,0.2897
+1780188,Other / Unknown,NO,NO,0.4298
+1780188,Physiological - Other,NO,YES,0.7817
+1780188,Fatigue,YES,YES,0.926
+1753680,Situational Awareness,NO,NO,0.4498
+1753680,Communication Breakdown,YES,YES,0.7694
+1753680,Distraction,YES,NO,0.4509
+1753680,Confusion,NO,YES,0.5014
+1753680,Workload,NO,NO,0.2364
+1753680,Time Pressure,NO,NO,0.4771
+1753680,Troubleshooting,NO,NO,0.4954
+1753680,Training / Qualification,NO,NO,0.2395
+1753680,Human-Machine Interface,NO,NO,0.2443
+1753680,Other / Unknown,NO,NO,0.4884
+1753680,Physiological - Other,NO,NO,0.2696
+1753680,Fatigue,NO,NO,0.318
+1764309,Situational Awareness,YES,NO,0.4051
+1764309,Communication Breakdown,NO,NO,0.2944
+1764309,Distraction,YES,NO,0.2688
+1764309,Confusion,NO,YES,0.5815
+1764309,Workload,NO,NO,0.1944
+1764309,Time Pressure,NO,NO,0.2761
+1764309,Troubleshooting,NO,YES,0.6285
+1764309,Training / Qualification,NO,NO,0.206
+1764309,Human-Machine Interface,NO,YES,0.8459
+1764309,Other / Unknown,NO,NO,0.3966
+1764309,Physiological - Other,NO,NO,0.1276
+1764309,Fatigue,NO,NO,0.2052

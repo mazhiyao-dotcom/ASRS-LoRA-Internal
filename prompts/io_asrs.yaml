@@ -1,0 +1,72 @@
+
+"Situational Awareness": |
+  Read the aviation safety report below.
+  Does Situational Awareness significantly contribute to the event?
+  Answer only YES or NO.
+  Report: {context}
+
+"Communication Breakdown": |
+  Read the aviation safety report below.
+  Does Communication Breakdown significantly contribute to the event?
+  Answer only YES or NO.
+  Report: {context}
+
+"Distraction": |
+  Read the aviation safety report below.
+  Does Distraction significantly contribute to the event?
+  Answer only YES or NO.
+  Report: {context}
+
+"Confusion": |
+  Read the aviation safety report below.
+  Does Confusion significantly contribute to the event?
+  Answer only YES or NO.
+  Report: {context}
+
+"Workload": |
+  Read the aviation safety report below.
+  Does Workload significantly contribute to the event?
+  Answer only YES or NO.
+  Report: {context}
+
+"Time Pressure": |
+  Read the aviation safety report below.
+  Does Time Pressure significantly contribute to the event?
+  Answer only YES or NO.
+  Report: {context}
+
+"Troubleshooting": |
+  Read the aviation safety report below.
+  Does Troubleshooting significantly contribute to the event?
+  Answer only YES or NO.
+  Report: {context}
+
+"Training / Qualification": |
+  Read the aviation safety report below.
+  Does Training / Qualification significantly contribute to the event?
+  Answer only YES or NO.
+  Report: {context}
+
+"Human-Machine Interface": |
+  Read the aviation safety report below.
+  Does Human-Machine Interface significantly contribute to the event?
+  Answer only YES or NO.
+  Report: {context}
+
+"Other / Unknown": |
+  Read the aviation safety report below.
+  Does Other / Unknown human factors significantly contribute to the event?
+  Answer only YES or NO.
+  Report: {context}
+
+"Physiological - Other": |
+  Read the aviation safety report below.
+  Does Physiological - Other significantly contribute to the event?
+  Answer only YES or NO.
+  Report: {context}
+
+"Fatigue": |
+  Read the aviation safety report below.
+  Does Fatigue significantly contribute to the event?
+  Answer only YES or NO.
+  Report: {context}

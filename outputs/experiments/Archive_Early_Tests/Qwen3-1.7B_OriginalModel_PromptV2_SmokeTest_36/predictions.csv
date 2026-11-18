@@ -1,0 +1,37 @@
+acn,factor,true_label,prediction,raw_response
+1782281,Situational Awareness,NO,YES,YES
+1782281,Communication Breakdown,NO,YES,YES
+1782281,Distraction,YES,YES,YES
+1782281,Confusion,NO,YES,YES
+1782281,Workload,YES,NO,NO
+1782281,Time Pressure,YES,NO,NO
+1782281,Troubleshooting,NO,NO,NO
+1782281,Training / Qualification,NO,NO,NO
+1782281,Human-Machine Interface,NO,YES,YES
+1782281,Other / Unknown,NO,YES,YES
+1782281,Physiological - Other,NO,NO,NO
+1782281,Fatigue,NO,YES,YES
+1773865,Situational Awareness,YES,YES,YES
+1773865,Communication Breakdown,YES,YES,YES
+1773865,Distraction,NO,YES,YES
+1773865,Confusion,YES,YES,YES
+1773865,Workload,NO,YES,YES
+1773865,Time Pressure,NO,YES,YES
+1773865,Troubleshooting,NO,YES,YES
+1773865,Training / Qualification,NO,YES,YES
+1773865,Human-Machine Interface,YES,YES,YES
+1773865,Other / Unknown,NO,YES,YES
+1773865,Physiological - Other,NO,YES,YES
+1773865,Fatigue,NO,YES,YES
+1763378,Situational Awareness,NO,YES,YES
+1763378,Communication Breakdown,YES,NO,NO
+1763378,Distraction,NO,YES,YES
+1763378,Confusion,NO,NO,NO
+1763378,Workload,NO,NO,NO
+1763378,Time Pressure,NO,NO,NO
+1763378,Troubleshooting,NO,NO,NO.
+1763378,Training / Qualification,NO,NO,NO
+1763378,Human-Machine Interface,NO,YES,YES
+1763378,Other / Unknown,NO,NO,NO
+1763378,Physiological - Other,NO,NO,NO
+1763378,Fatigue,NO,YES,YES

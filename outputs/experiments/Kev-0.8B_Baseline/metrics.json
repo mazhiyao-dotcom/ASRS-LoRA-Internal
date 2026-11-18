@@ -1,0 +1,12 @@
+{
+  "model": "Kev-0.8B",
+  "reports": 468,
+  "samples": 5616,
+  "accuracy": 0.6789529914529915,
+  "macro_precision": 0.6157897131935517,
+  "macro_recall": 0.6729651755617135,
+  "macro_f1": 0.6114363559091952,
+  "yes_f1": 0.4494656488549618,
+  "average_latency_ms_per_report": 89.77564102564102,
+  "total_wall_time_seconds": 45.80012083053589
+}

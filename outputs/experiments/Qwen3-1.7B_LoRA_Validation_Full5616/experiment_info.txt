@@ -1,0 +1,11 @@
+Experiment: Qwen3-1.7B LoRA Fine-tuned
+Model: Qwen/Qwen3-1.7B
+Fine-tuning: LoRA
+Adapter: outputs/asrs_lora/final_adapter
+Dataset: ASRS Validation
+Classification samples: 5616
+Accident reports: 468
+Prompt: prompts/io_asrs.yaml
+Prompt version: Significantly Contribute (V2)
+Maximum input length: 2048 tokens
+Decoding: Greedy (do_sample=False)

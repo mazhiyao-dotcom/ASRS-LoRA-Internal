@@ -1,0 +1,118 @@
+{
+  "model": "kev-latest",
+  "answers": {
+    "Situational Awareness": {
+      "type": "choice",
+      "choice": "NO",
+      "confidence": 0.4283,
+      "probabilities": {
+        "YES": 0.2859,
+        "NO": 0.7141
+      }
+    },
+    "Communication Breakdown": {
+      "type": "choice",
+      "choice": "YES",
+      "confidence": 0.0046,
+      "probabilities": {
+        "YES": 0.5023,
+        "NO": 0.4977
+      }
+    },
+    "Distraction": {
+      "type": "choice",
+      "choice": "NO",
+      "confidence": 0.1291,
+      "probabilities": {
+        "YES": 0.4355,
+        "NO": 0.5645
+      }
+    },
+    "Confusion": {
+      "type": "choice",
+      "choice": "YES",
+      "confidence": 0.7118,
+      "probabilities": {
+        "YES": 0.8559,
+        "NO": 0.1441
+      }
+    },
+    "Workload": {
+      "type": "choice",
+      "choice": "NO",
+      "confidence": 0.0598,
+      "probabilities": {
+        "YES": 0.4701,
+        "NO": 0.5299
+      }
+    },
+    "Time Pressure": {
+      "type": "choice",
+      "choice": "YES",
+      "confidence": 0.154,
+      "probabilities": {
+        "YES": 0.577,
+        "NO": 0.423
+      }
+    },
+    "Troubleshooting": {
+      "type": "choice",
+      "choice": "NO",
+      "confidence": 0.0316,
+      "probabilities": {
+        "YES": 0.4842,
+        "NO": 0.5158
+      }
+    },
+    "Training / Qualification": {
+      "type": "choice",
+      "choice": "NO",
+      "confidence": 0.6183,
+      "probabilities": {
+        "YES": 0.1909,
+        "NO": 0.8091
+      }
+    },
+    "Human-Machine Interface": {
+      "type": "choice",
+      "choice": "YES",
+      "confidence": 0.3301,
+      "probabilities": {
+        "YES": 0.665,
+        "NO": 0.335
+      }
+    },
+    "Other / Unknown": {
+      "type": "choice",
+      "choice": "NO",
+      "confidence": 0.4171,
+      "probabilities": {
+        "YES": 0.2914,
+        "NO": 0.7086
+      }
+    },
+    "Physiological - Other": {
+      "type": "choice",
+      "choice": "NO",
+      "confidence": 0.5656,
+      "probabilities": {
+        "YES": 0.2172,
+        "NO": 0.7828
+      }
+    },
+    "Fatigue": {
+      "type": "choice",
+      "choice": "NO",
+      "confidence": 0.4353,
+      "probabilities": {
+        "YES": 0.2823,
+        "NO": 0.7177
+      }
+    }
+  },
+  "usage": {
+    "input_tokens": 822,
+    "output_tokens": 642
+  },
+  "latency_ms": 126.2
+}

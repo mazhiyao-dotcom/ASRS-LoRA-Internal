@@ -1,0 +1,90 @@
+{
+    "experiment": "Qwen3-1.7B LoRA",
+    "model": "Qwen/Qwen3-1.7B",
+    "dataset": "data/asrs/val.csv",
+    "samples": 5616,
+    "reports": 468,
+    "fine_tuned": true,
+    "accuracy": 0.8433048433048433,
+    "macro_precision": 0.7633481646273637,
+    "macro_recall": 0.6908518371900529,
+    "macro_f1": 0.7157569771847766,
+    "yes_precision": 0.6545698924731183,
+    "yes_recall": 0.43873873873873875,
+    "yes_f1": 0.5253505933117584,
+    "invalid_predictions": 0,
+    "human_factors": {
+        "Situational Awareness": {
+            "accuracy": 0.6944444444444444,
+            "precision_yes": 0.6842105263157895,
+            "recall_yes": 0.7551867219917012,
+            "f1_yes": 0.717948717948718
+        },
+        "Communication Breakdown": {
+            "accuracy": 0.7478632478632479,
+            "precision_yes": 0.7074468085106383,
+            "recall_yes": 0.6785714285714286,
+            "f1_yes": 0.6927083333333334
+        },
+        "Distraction": {
+            "accuracy": 0.7478632478632479,
+            "precision_yes": 0.6231884057971014,
+            "recall_yes": 0.31851851851851853,
+            "f1_yes": 0.4215686274509804
+        },
+        "Confusion": {
+            "accuracy": 0.7457264957264957,
+            "precision_yes": 0.5588235294117647,
+            "recall_yes": 0.2992125984251969,
+            "f1_yes": 0.38974358974358975
+        },
+        "Workload": {
+            "accuracy": 0.8418803418803419,
+            "precision_yes": 0.6428571428571429,
+            "recall_yes": 0.313953488372093,
+            "f1_yes": 0.421875
+        },
+        "Time Pressure": {
+            "accuracy": 0.8269230769230769,
+            "precision_yes": 0.6,
+            "recall_yes": 0.1411764705882353,
+            "f1_yes": 0.22857142857142856
+        },
+        "Troubleshooting": {
+            "accuracy": 0.8739316239316239,
+            "precision_yes": 0.5666666666666667,
+            "recall_yes": 0.2698412698412698,
+            "f1_yes": 0.3655913978494624
+        },
+        "Training / Qualification": {
+            "accuracy": 0.8846153846153846,
+            "precision_yes": 0.6,
+            "recall_yes": 0.3,
+            "f1_yes": 0.4
+        },
+        "Human-Machine Interface": {
+            "accuracy": 0.9166666666666666,
+            "precision_yes": 0.5,
+            "recall_yes": 0.07692307692307693,
+            "f1_yes": 0.13333333333333333
+        },
+        "Other / Unknown": {
+            "accuracy": 0.9209401709401709,
+            "precision_yes": 0.0,
+            "recall_yes": 0.0,
+            "f1_yes": 0.0
+        },
+        "Physiological - Other": {
+            "accuracy": 0.9594017094017094,
+            "precision_yes": 0.8333333333333334,
+            "recall_yes": 0.37037037037037035,
+            "f1_yes": 0.5128205128205128
+        },
+        "Fatigue": {
+            "accuracy": 0.9594017094017094,
+            "precision_yes": 0.3076923076923077,
+            "recall_yes": 0.2857142857142857,
+            "f1_yes": 0.2962962962962963
+        }
+    }
+}

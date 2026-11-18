@@ -1,0 +1,10 @@
+Experiment: Qwen3-1.7B Original Model Baseline
+Model: Qwen/Qwen3-1.7B
+Fine-tuning: None
+Dataset: ASRS Validation
+Classification samples: 5616
+Accident reports: 468
+Prompt: prompts/io_asrs.yaml
+Prompt version: Significantly Contribute (V2)
+Maximum input length: 2048 tokens
+Decoding: Greedy (do_sample=False)

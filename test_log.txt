@@ -1,0 +1,9 @@
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading tokenizer...
+Loading Qwen3-1.7B...
+Loading weights:   0%|          | 0/311 [00:00<?, ?it/s]Loading weights:   0%|          | 1/311 [00:00<02:38,  1.96it/s]Loading weights:  18%|█▊        | 56/311 [00:00<00:02, 121.13it/s]Loading weights:  28%|██▊       | 88/311 [00:00<00:01, 156.52it/s]Loading weights:  38%|███▊      | 117/311 [00:00<00:01, 181.24it/s]Loading weights:  47%|████▋     | 147/311 [00:00<00:00, 207.53it/s]Loading weights:  58%|█████▊    | 179/311 [00:01<00:00, 236.31it/s]Loading weights:  68%|██████▊   | 211/311 [00:01<00:00, 255.21it/s]Loading weights:  77%|███████▋  | 241/311 [00:01<00:00, 257.03it/s]Loading weights:  87%|████████▋ | 270/311 [00:01<00:00, 258.06it/s]Loading weights:  97%|█████████▋| 301/311 [00:01<00:00, 256.28it/s]Loading weights: 100%|██████████| 311/311 [00:01<00:00, 201.63it/s]
+Model loaded successfully!
+GPU: NVIDIA GeForce RTX 3080
+
+Model response: YES.
+GPU memory allocated: 3.21 GB
